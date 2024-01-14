@@ -1,0 +1,25 @@
+1. Pake kata kerja (me) bkn pe
+2. Jangan membahas diluar sistem
+3. Pembayaran tunai dan transfer bukan extend tapi generalizein
+4. Gk ush pke nama user lgsg namanya
+5. Regis tambah aktor
+6. Bikin package. 1 package byk aktor. 
+7. Aktor ke use case line asosiasi
+8. Dikasi penomoran. 1 nomor 1 use case
+9. Boleh kompleks boleh sederhana
+10. Reque di skpl dikasi nomor juga. Lalu dihubungkan dengan nomor use case. Tulisannya seperti anotasi
+11. Kalo byk reque nya priority makin high
+12. Tambah sub bab use case
+13. Pre kondisi: yg harus sudah ada sebelum pake apk.
+14. Flow of events dipecah jd tiap aktor yg berkolerasi sm sistem
+
+My note:
+--Mending pake tambahan nama "user"
+--fitur help belum didefinisikan use case analisisnya.
+--hilangkan boundary.
+-- include -> menjadi satu kesatuan dengan use case.
+-- extend -> memilih salah satu tetapi dalam, diluar itu juga termasuk pilihan.
+-- generalization -> hanya pilihan use case tertentu yang dapat dimasukkan.
+
+
+
